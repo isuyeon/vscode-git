@@ -1,0 +1,13 @@
+body {
+    background:#ccc;
+}
+ul {
+    border:1px solid red;
+    li {
+        border:1px solid blue;
+        a {
+            color:red;
+&:before {content:'';}   
+        }
+    }
+}

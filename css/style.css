@@ -1,0 +1,18 @@
+body { background: #ccc; }
+
+ul { border: 1px solid red; }
+
+ul li { border: 1px solid blue; }
+
+ul li a { color: red; }
+
+ul li a:before { content: ''; }
+
+body { background: #ccc; }
+
+ul { border: 1px solid red; }
+
+ul li { border: 1px solid blue; }
+
+ul li a { color: red; }
+/*# sourceMappingURL=style.css.map */
